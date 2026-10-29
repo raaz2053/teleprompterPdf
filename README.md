@@ -1,4 +1,4 @@
-# CuePDF — Teleprompter with PDF Ingestion
+# teleprompterPDF — Teleprompter with PDF Ingestion
 
 A browser-only teleprompter that reads your PDFs. Text extraction and OCR happen
 entirely client-side; nothing is uploaded to a server.
